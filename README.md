@@ -15,4 +15,3 @@ Changes included:
 - Implementation of movie card UI (MovieCard component)
 - Added seat selection page (Seats component)
 - Added booking success page (Success component)
-- Added base styling (index.css)
