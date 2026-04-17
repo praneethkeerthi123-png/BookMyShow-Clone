@@ -1,4 +1,5 @@
 # BookMyShow-Clone
+Praneeth-work
 Changes included:
 - Setup of main React application (index.html, main.jsx, App.jsx)
 - Implementation of navigation bar (Navbar component)
