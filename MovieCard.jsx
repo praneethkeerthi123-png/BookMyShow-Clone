@@ -28,3 +28,4 @@ export default function MovieCard({ movie }) {
 }
 // Improved card UI
 // Improved movie card UI and styling - Praneeth
+// Improved responsiveness for movie cards - Praneeth
