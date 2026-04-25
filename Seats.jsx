@@ -110,3 +110,4 @@ export default function Seats() {
     </div>
   );
 }
+// Improved seat selection UI and interaction - Praneeth
