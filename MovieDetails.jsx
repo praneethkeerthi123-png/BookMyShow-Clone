@@ -70,3 +70,5 @@ export default function MovieDetails() {
     </div>
   );
 }
+
+// Refined movie details layout
