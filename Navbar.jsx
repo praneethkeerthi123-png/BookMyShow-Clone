@@ -30,3 +30,5 @@ export default function Navbar({ search, setSearch }) {
     </header>
   );
 }
+
+// Updated navigation styling and layout
