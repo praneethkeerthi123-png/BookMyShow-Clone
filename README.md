@@ -1,4 +1,4 @@
-# BookMyShow-Clone
+#MovieHub Demo.
 Sujal-Work
 Implemented the remaining core features of the BookMyShow Clone application.
 
