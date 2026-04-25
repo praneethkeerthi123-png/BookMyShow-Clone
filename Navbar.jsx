@@ -30,3 +30,5 @@ export default function Navbar({ search, setSearch }) {
     </header>
   );
 }
+
+// Navbar updated by Praneeth
