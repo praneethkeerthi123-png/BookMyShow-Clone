@@ -18,7 +18,7 @@ export default function Success() {
   return (
     <div className="success-page">
       <div className="success-card">
-        <h1>✅ Booking Confirmed</h1>
+        <h1>✅ Simulated Booking Confirmed</h1>
         <img
           src={booking.movieImage}
           alt={booking.movieTitle}
@@ -32,7 +32,7 @@ export default function Success() {
           <strong>Seats:</strong> {booking.seats.join(", ")}
         </p>
         <p>
-          <strong>Total Paid:</strong> ₹{booking.total}
+          <strong>Simulated Amount:</strong> ₹{booking.total}
         </p>
         <p>
           <strong>Booked At:</strong> {booking.bookedAt}
